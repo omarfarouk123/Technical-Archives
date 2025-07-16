@@ -5,6 +5,9 @@
 # Technical Archives
 This repository includes various simulation results, hardware documentation, circuit designs, and AI-based model studies developed throughout my academic and personal engineering journey.
 
+> **Note:** Some PDF files and folder contents may not be viewable directly on GitHub.  
+> Please download the files to your local device to view them properly.
+
 ## Contents
 ### Circuit & Power Electronics
 - Buzzer Circuit Design (PDF)
