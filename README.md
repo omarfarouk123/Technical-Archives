@@ -15,7 +15,7 @@ This repository includes various simulation results, hardware documentation, cir
 
 ### Energy Systems
 - 24-Hour Vehicle-to-Grid (V2G) System Simulation (Folder)
-- Renewable and Sustainable Hybrid Energy System Application – EskiSehir (Folder)
+- Renewable and Sustainable Hybrid Energy System Application – Eskisehir (Folder)
 - Frequency-Dependent Transmission Line Simulation (PDF)
 
 ### Artificial Intelligence & Signal Processing
